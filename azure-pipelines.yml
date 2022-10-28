@@ -12,7 +12,7 @@ variables:
   azureSubscription: '86f04be3-3dba-4af0-9b2f-cc51ec9aae12'
 
   # Web app name
-  webAppName: 'Blue-Altair'
+  webAppName: 'Blue-Altair-PET'
 
   # Environment name
   environmentName: 'Dev'
